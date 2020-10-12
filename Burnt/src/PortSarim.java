@@ -33,7 +33,7 @@ import org.dreambot.api.methods.item.GroundItems;
 public class PortSarim extends AbstractScript{
 
 	//122 total words
-	String Ord[] = new String[] {"af","end","ingen","til","det","han","og","det er","i","det","-en","ved","end","jeg","-en","te","Jeg ved","det","med","til","mig","er","Ja","Ja","men","det","godt","mig","dens","at","her","af","til","hvordan","du","du","plus","alt","allerede","meget","dette","vi går","han har","nu","er","der er","er","noget","du","jeg har","godt","ikke noget","os","hvornår","hvordan","han","Jeg ved","Disse","alene","eller","Jeg vil have","Øst","har","tak skal du have","jeg","maj l","okay","Jeg er","var","være","tid","gøre","alle sammen","hun","De er","var","du er","du","du har","kan","Hr","at","jeg går","hvem","Hus","Jeg tror","hvorfor","så","fordel","Hej","hvor","aldrig","deres","du ved","to","rigtigt","du vil have","meget","så","jeg var","vejr","mig","at","bedst","mand","gør","går","Gud","også","du","livstid","uden","er det sådan","se","Hr","for evigt","åh","indtil","du","der","undskyld","kan","sige","ingen af  dem","på","flere år","vi har","en","dag","nat","ting og sager","nogen","Før","min","gå","lille smule","Andet","har lyst","alene","ingen","OS","far","mennesker","Det synes","penge","at være","Færdig","dem","samme","være","vi er","se","passere","job","sagde","de","Du går","Klar","morgen","De har","Andet","efter","siden","verden","tale","sådan","havde","kender til","aftale","øjeblik","hvor","uden for","søn","kunne","sikker","kvinde","ven","dage","mor","der","ting","jeres","placere","Han siger","synes godt om","være","store","lort","havde","mor","far","vente","i dag","at have","komme","godt","stat","ny","derefter","vi kan","tre","sagde","vores","været","mindre","bør","venlig","godt","med mig","forkert","alle","Navn","gør","tænke","alle","elsker","Egen","har set","Disse","ønskede at","Hej","sent","sager","en del","endnu","vores","de har","så meget","hver","time","gange","havde brug for","med dig","gå","at have","godt","ordsprog","hvem","gøre hvad","også","hører man","ah","gøre","mænd","at vide","mellem","farvel","problem","nogle","gå","vi har","rigtigt","jeg må","grund","nogen","de der","godt","Jeg ser","ide","pige","Virkelig","politibetjent","gjorde","Disse","venner","jer der","måske","jeg grinede","hoved","bror","jeg siger","gå","forbi","forlade","regning","familie","søde","okay","nogle","mange","Frk","vi er","de kan","nætter","død","Du","stadig","Quick","gammel","side","bør","du ser","Jeg vidste","held","pas på","gode","ville være","giver","Mens","frygt","først","mod","dør","snart","og","næsten","ny","Jeg håber","nogen","de der","Vand","du","dreng","hvor meget","børn","kom nu","vej","Først","imod","jeg troede","inde","Han passerede","du må","by","historie","år","kommer","lade","i løbet af","form","Vend tilbage","lykkelig","øjne","krig","sag","Drenge","kone","foran","Hvilken en","hånd","jeg gjorde","sav","vil gerne have","død","der","mere","helt vildt","formodede","tage","minutter","det vil jeg gøre","jeg forstår det","ske","jeg gik","hjerte","uge","chef","komme","hænder","Hjælp","problemer","sammen","Jeg formoder","Lad mig","vigtig","gå væk","dreng","op","datter","andre","fru","personer","jorden","vej","taler","ende","Kvinder","ansigt","stor","nogen","vores","fem","opkald","Hej","taler","lav","sige","strøm","hvornår","måske","lytter","person","timer","onkel","selvom","io","kun","sagde","i det mindste","de vil have","ingen","nær ved","lille","vi skal","Cree","give mig","følge efter","bil","fire","forlade","Mange","samme","jeg laver","parat","det betyder","kaptajn","klasse","nå","læge","nok","drikke","at leve","ung","at arbejde","bøg","ned","havde","først","store","retfærdig","tænke","samme","tæve","spise","behøver at","Jeg ved","jeg var","Nogle","Hop ind","stærk","nummer","Frk","At dø","Nok","give","temmelig","elsker","bag","sige","svært","Øst","kan","punkt","kom","søster","sønner","søm","endelige","skole","jeg kunne","landsby","lave","blod","måneder","bil","spil","finde","virkelighed","Legeme","højere","sidst","de var","resterne","okay","fred","Fortæl mig","Vend tilbage","gjorde","havde","alene","lave","væk","Kære","jeg vil gå","skyld","dårlig","piger","mad","Dollars","dr","de ved","let","høj","muligt","forbandet","søvn","du burde","for pokker","spørgsmål","også selvom","parti","ingen af dem","seng","langt","medium","bekymre","Oh","telefon","fortælle","ei","om","udstyr","ord","hvor meget","fjols","Øst","lys","jeg havde","Land","sekund","Kære","Devils","du gør","gå glip af","mulighed","dræbe","nogle","venter","vi behøver","hvor","at se dig","vil være","jeg kommer","du var","var","seks","har","fjerde","himmel","i live","hukommelse","undskyld","mangel","lille","øre","tro på","John","jeg tror","er","vente","du mangler","her","film","også","mand","hund","generel","Gade","Nemlig","konge","forældre","liste","der vil være","værelse","fanden","tænkning","par","brand","pige","følge efter","musik","gav","der ville være","en masse","Han passerede","følelse","Jeg vil sige","kan du","uden for","du siger","ia","mine","døde","det gav","kaffe","Du forstår","vores","tænke","det","bærer","han var","seneste","ordsprog","stor","websted","Bestil","søger","baby","hold kæft","vender tilbage","Aldrig","minut","våben","rejse","kun","drenge","faret vild","at lege","ti","vi ser","terning","vi ved","tusind","resten","smag","værst","forlade","donkraft","De var","bestille","går","lave om","mærkelig","fattige","tøj","vi vil have","kontor","hvis ikke","mode","opstår","dreng","Andet","vilje","ledig","ved godt","tænke","Formand","særlig","igåraftes","millioner","om","højre","sort","her","herrer","uger","ord","lede efter","sikker","Højre","foran","vi laver","være","bag","Markedsbod","affære","varede","sker","at ringe","undskyld","mund","Opmærksomhed","Se","våben","over","fik pokkers","dårlig","tage med","Hvilken en","had","Hospital","bør","drøm","vil have","hvile","jeg opkald","at tabe","hedder","Perfekt","jeg vil være","rolige","york","sikkerhed","Hjælp","Han havde","lang","smerte","sandsynligvis","I går","Fortæl ham","prøve","væsen","pæn","Husk","lave","ægte","du vil se","fantastiske","jeg kunne godt tænke mig","narre","ganske enkelt","Lad os gå","ville gøre","spørgsmål","luft","kendt","kraft","brev","behandling","plan","at","se ham","sulten","vendt","Start","landskabet","lige","tale","liv","skib","Hotel","placere","gruppe","tanke","Sol","af dine","passere","joe","stemme","bad","brug","få","fornøjelse","ankom","fortælle dig","professor","nyheder","klagesang","fortælle","hvid","Bliv","jeg var","fod","anda","Vente","alder","hemmelighed","vi kunne","Selskab","tog","Husk","efter","Sid ned","siv","udsigt","smuk","del","vi skulle","synes godt om","betale","george","fremtid","stilhed","føles","læge","lærer","vil have","jeg ankommer","helt vildt","lave om","åben","Salt","styring","sjælden","kjoler","kæreste","forskellige","umulig","jeg","ven","med det samme","opkald","give","venstre","måned","jeg er iført","fly","hår","det","fejl","vilje","vil have","egen","følge","vinde","lov","smerte","guld","ti","færdig","forbande","officiel","situation","gøre ondt","du føler","det er underforstået","ønske","sind","hær","at købe","død","tanke","Giv ham","Dum","Han sagde","færdig","David","det lyder","halvt","hest","snigmorder","han så","Undskyld mig","de","arbejder","vidunderlig","bord","sjov","top","Næste","går ind i","Tom","hav","syv","imod","køn","elsker","venlige","besked","Information","dragt","sjæl","fundet","oberst","Fortsæt","helgen","Aftensmad","jeg fandt","charlie","du vil have","aldre","egen","røv","Så","indendørs","sang","regering","Sam","frygt","Åbner","de sagde","du var","halvt","du giver","vi var","Det ville","Jeg giver","du","kold","Foto","ulykke","højre","arbejder","gå","centrum","nødvendig","se","smuk","Før","forfærdeligt","jeg kunne","løjtnant","Måne","venstre","Du","jeg giver","service","opkald","normal","sammen","butik","jul","retning","mormor","rundt om","kom","jeg vil have","frihed","kommer ud","linje","advokat","fødder","Ære","forsøger","at vende tilbage","jeg taler","gammel dame","papir","færdig","venstre","jeg sværger","smuk","sød","føle","starten","interessant","boks","nogen som helst","otte","forfærdelig","svar","hunhund","sjov","s","bringer","personlig","han dræbte","fuldstændig","paul","de kommer","er","ankommer","bedstefar","du har","nuttet","vi vil have","Michael","dele","fængsel","der var","system","nuttet","direktør","gør det","de lavede","tante","Søg","Don","lav","kunne","Sundhed","parat","aftale","havde","forretning","typer","kamera","agent","du vil se","helvede","til stede","flod","igennem","kød","helt","Fortæl mig","etage","mand","høre","harry","sergent","forlade","dine","begge to","at drikke","berolige","kjole","undtagen","at","rigtigt","affald","etage","race","fødselsdag"};
+	String Ord[] = new String[] {"af","end","ingen","til","det","han","og","det er","i","det","-en","ved","end","jeg","-en","te","Jeg ved","det","med","til","mig","er","Ja","Ja","men","det","godt","mig","dens","at","her","af","til","hvordan","du","du","plus","alt","allerede","meget","dette","vi gÃ¥r","han har","nu","er","der er","er","noget","du","jeg har","godt","ikke noget","os","hvornÃ¥r","hvordan","han","Jeg ved","Disse","alene","eller","Jeg vil have","Ã˜st","har","tak skal du have","jeg","maj l","okay","Jeg er","var","vÃ¦re","tid","gÃ¸re","alle sammen","hun","De er","var","du er","du","du har","kan","Hr","at","jeg gÃ¥r","hvem","Hus","Jeg tror","hvorfor","sÃ¥","fordel","Hej","hvor","aldrig","deres","du ved","to","rigtigt","du vil have","meget","sÃ¥","jeg var","vejr","mig","at","bedst","mand","gÃ¸r","gÃ¥r","Gud","ogsÃ¥","du","livstid","uden","er det sÃ¥dan","se","Hr","for evigt","Ã¥h","indtil","du","der","undskyld","kan","sige","ingen af  dem","pÃ¥","flere Ã¥r","vi har","en","dag","nat","ting og sager","nogen","FÃ¸r","min","gÃ¥","lille smule","Andet","har lyst","alene","ingen","OS","far","mennesker","Det synes","penge","at vÃ¦re","FÃ¦rdig","dem","samme","vÃ¦re","vi er","se","passere","job","sagde","de","Du gÃ¥r","Klar","morgen","De har","Andet","efter","siden","verden","tale","sÃ¥dan","havde","kender til","aftale","Ã¸jeblik","hvor","uden for","sÃ¸n","kunne","sikker","kvinde","ven","dage","mor","der","ting","jeres","placere","Han siger","synes godt om","vÃ¦re","store","lort","havde","mor","far","vente","i dag","at have","komme","godt","stat","ny","derefter","vi kan","tre","sagde","vores","vÃ¦ret","mindre","bÃ¸r","venlig","godt","med mig","forkert","alle","Navn","gÃ¸r","tÃ¦nke","alle","elsker","Egen","har set","Disse","Ã¸nskede at","Hej","sent","sager","en del","endnu","vores","de har","sÃ¥ meget","hver","time","gange","havde brug for","med dig","gÃ¥","at have","godt","ordsprog","hvem","gÃ¸re hvad","ogsÃ¥","hÃ¸rer man","ah","gÃ¸re","mÃ¦nd","at vide","mellem","farvel","problem","nogle","gÃ¥","vi har","rigtigt","jeg mÃ¥","grund","nogen","de der","godt","Jeg ser","ide","pige","Virkelig","politibetjent","gjorde","Disse","venner","jer der","mÃ¥ske","jeg grinede","hoved","bror","jeg siger","gÃ¥","forbi","forlade","regning","familie","sÃ¸de","okay","nogle","mange","Frk","vi er","de kan","nÃ¦tter","dÃ¸d","Du","stadig","Quick","gammel","side","bÃ¸r","du ser","Jeg vidste","held","pas pÃ¥","gode","ville vÃ¦re","giver","Mens","frygt","fÃ¸rst","mod","dÃ¸r","snart","og","nÃ¦sten","ny","Jeg hÃ¥ber","nogen","de der","Vand","du","dreng","hvor meget","bÃ¸rn","kom nu","vej","FÃ¸rst","imod","jeg troede","inde","Han passerede","du mÃ¥","by","historie","Ã¥r","kommer","lade","i lÃ¸bet af","form","Vend tilbage","lykkelig","Ã¸jne","krig","sag","Drenge","kone","foran","Hvilken en","hÃ¥nd","jeg gjorde","sav","vil gerne have","dÃ¸d","der","mere","helt vildt","formodede","tage","minutter","det vil jeg gÃ¸re","jeg forstÃ¥r det","ske","jeg gik","hjerte","uge","chef","komme","hÃ¦nder","HjÃ¦lp","problemer","sammen","Jeg formoder","Lad mig","vigtig","gÃ¥ vÃ¦k","dreng","op","datter","andre","fru","personer","jorden","vej","taler","ende","Kvinder","ansigt","stor","nogen","vores","fem","opkald","Hej","taler","lav","sige","strÃ¸m","hvornÃ¥r","mÃ¥ske","lytter","person","timer","onkel","selvom","io","kun","sagde","i det mindste","de vil have","ingen","nÃ¦r ved","lille","vi skal","Cree","give mig","fÃ¸lge efter","bil","fire","forlade","Mange","samme","jeg laver","parat","det betyder","kaptajn","klasse","nÃ¥","lÃ¦ge","nok","drikke","at leve","ung","at arbejde","bÃ¸g","ned","havde","fÃ¸rst","store","retfÃ¦rdig","tÃ¦nke","samme","tÃ¦ve","spise","behÃ¸ver at","Jeg ved","jeg var","Nogle","Hop ind","stÃ¦rk","nummer","Frk","At dÃ¸","Nok","give","temmelig","elsker","bag","sige","svÃ¦rt","Ã˜st","kan","punkt","kom","sÃ¸ster","sÃ¸nner","sÃ¸m","endelige","skole","jeg kunne","landsby","lave","blod","mÃ¥neder","bil","spil","finde","virkelighed","Legeme","hÃ¸jere","sidst","de var","resterne","okay","fred","FortÃ¦l mig","Vend tilbage","gjorde","havde","alene","lave","vÃ¦k","KÃ¦re","jeg vil gÃ¥","skyld","dÃ¥rlig","piger","mad","Dollars","dr","de ved","let","hÃ¸j","muligt","forbandet","sÃ¸vn","du burde","for pokker","spÃ¸rgsmÃ¥l","ogsÃ¥ selvom","parti","ingen af dem","seng","langt","medium","bekymre","Oh","telefon","fortÃ¦lle","ei","om","udstyr","ord","hvor meget","fjols","Ã˜st","lys","jeg havde","Land","sekund","KÃ¦re","Devils","du gÃ¸r","gÃ¥ glip af","mulighed","drÃ¦be","nogle","venter","vi behÃ¸ver","hvor","at se dig","vil vÃ¦re","jeg kommer","du var","var","seks","har","fjerde","himmel","i live","hukommelse","undskyld","mangel","lille","Ã¸re","tro pÃ¥","John","jeg tror","er","vente","du mangler","her","film","ogsÃ¥","mand","hund","generel","Gade","Nemlig","konge","forÃ¦ldre","liste","der vil vÃ¦re","vÃ¦relse","fanden","tÃ¦nkning","par","brand","pige","fÃ¸lge efter","musik","gav","der ville vÃ¦re","en masse","Han passerede","fÃ¸lelse","Jeg vil sige","kan du","uden for","du siger","ia","mine","dÃ¸de","det gav","kaffe","Du forstÃ¥r","vores","tÃ¦nke","det","bÃ¦rer","han var","seneste","ordsprog","stor","websted","Bestil","sÃ¸ger","baby","hold kÃ¦ft","vender tilbage","Aldrig","minut","vÃ¥ben","rejse","kun","drenge","faret vild","at lege","ti","vi ser","terning","vi ved","tusind","resten","smag","vÃ¦rst","forlade","donkraft","De var","bestille","gÃ¥r","lave om","mÃ¦rkelig","fattige","tÃ¸j","vi vil have","kontor","hvis ikke","mode","opstÃ¥r","dreng","Andet","vilje","ledig","ved godt","tÃ¦nke","Formand","sÃ¦rlig","igÃ¥raftes","millioner","om","hÃ¸jre","sort","her","herrer","uger","ord","lede efter","sikker","HÃ¸jre","foran","vi laver","vÃ¦re","bag","Markedsbod","affÃ¦re","varede","sker","at ringe","undskyld","mund","OpmÃ¦rksomhed","Se","vÃ¥ben","over","fik pokkers","dÃ¥rlig","tage med","Hvilken en","had","Hospital","bÃ¸r","drÃ¸m","vil have","hvile","jeg opkald","at tabe","hedder","Perfekt","jeg vil vÃ¦re","rolige","york","sikkerhed","HjÃ¦lp","Han havde","lang","smerte","sandsynligvis","I gÃ¥r","FortÃ¦l ham","prÃ¸ve","vÃ¦sen","pÃ¦n","Husk","lave","Ã¦gte","du vil se","fantastiske","jeg kunne godt tÃ¦nke mig","narre","ganske enkelt","Lad os gÃ¥","ville gÃ¸re","spÃ¸rgsmÃ¥l","luft","kendt","kraft","brev","behandling","plan","at","se ham","sulten","vendt","Start","landskabet","lige","tale","liv","skib","Hotel","placere","gruppe","tanke","Sol","af dine","passere","joe","stemme","bad","brug","fÃ¥","fornÃ¸jelse","ankom","fortÃ¦lle dig","professor","nyheder","klagesang","fortÃ¦lle","hvid","Bliv","jeg var","fod","anda","Vente","alder","hemmelighed","vi kunne","Selskab","tog","Husk","efter","Sid ned","siv","udsigt","smuk","del","vi skulle","synes godt om","betale","george","fremtid","stilhed","fÃ¸les","lÃ¦ge","lÃ¦rer","vil have","jeg ankommer","helt vildt","lave om","Ã¥ben","Salt","styring","sjÃ¦lden","kjoler","kÃ¦reste","forskellige","umulig","jeg","ven","med det samme","opkald","give","venstre","mÃ¥ned","jeg er ifÃ¸rt","fly","hÃ¥r","det","fejl","vilje","vil have","egen","fÃ¸lge","vinde","lov","smerte","guld","ti","fÃ¦rdig","forbande","officiel","situation","gÃ¸re ondt","du fÃ¸ler","det er underforstÃ¥et","Ã¸nske","sind","hÃ¦r","at kÃ¸be","dÃ¸d","tanke","Giv ham","Dum","Han sagde","fÃ¦rdig","David","det lyder","halvt","hest","snigmorder","han sÃ¥","Undskyld mig","de","arbejder","vidunderlig","bord","sjov","top","NÃ¦ste","gÃ¥r ind i","Tom","hav","syv","imod","kÃ¸n","elsker","venlige","besked","Information","dragt","sjÃ¦l","fundet","oberst","FortsÃ¦t","helgen","Aftensmad","jeg fandt","charlie","du vil have","aldre","egen","rÃ¸v","SÃ¥","indendÃ¸rs","sang","regering","Sam","frygt","Ã…bner","de sagde","du var","halvt","du giver","vi var","Det ville","Jeg giver","du","kold","Foto","ulykke","hÃ¸jre","arbejder","gÃ¥","centrum","nÃ¸dvendig","se","smuk","FÃ¸r","forfÃ¦rdeligt","jeg kunne","lÃ¸jtnant","MÃ¥ne","venstre","Du","jeg giver","service","opkald","normal","sammen","butik","jul","retning","mormor","rundt om","kom","jeg vil have","frihed","kommer ud","linje","advokat","fÃ¸dder","Ã†re","forsÃ¸ger","at vende tilbage","jeg taler","gammel dame","papir","fÃ¦rdig","venstre","jeg svÃ¦rger","smuk","sÃ¸d","fÃ¸le","starten","interessant","boks","nogen som helst","otte","forfÃ¦rdelig","svar","hunhund","sjov","s","bringer","personlig","han drÃ¦bte","fuldstÃ¦ndig","paul","de kommer","er","ankommer","bedstefar","du har","nuttet","vi vil have","Michael","dele","fÃ¦ngsel","der var","system","nuttet","direktÃ¸r","gÃ¸r det","de lavede","tante","SÃ¸g","Don","lav","kunne","Sundhed","parat","aftale","havde","forretning","typer","kamera","agent","du vil se","helvede","til stede","flod","igennem","kÃ¸d","helt","FortÃ¦l mig","etage","mand","hÃ¸re","harry","sergent","forlade","dine","begge to","at drikke","berolige","kjole","undtagen","at","rigtigt","affald","etage","race","fÃ¸dselsdag"};
 	String[] lootList = {"Bronze pickaxe"};
 	
 	State state;
@@ -129,6 +129,7 @@ public class PortSarim extends AbstractScript{
 			}else {
 				log("no ingame message");
 			}
+			sleep(500);
 			break;
 			
 		case WYDINEXIT:
@@ -154,7 +155,7 @@ public class PortSarim extends AbstractScript{
 			
 		case COOKING:
 			log("Starting to cook");
-			if(Inventory.contains(2140)||Inventory.contains(2138)){
+			if(Inventory.contains(2140)||Inventory.contains(2138)){			//cooked and raw chicken
 				log("inv has food to process, proceed to cook");
 				Cooking("Range");
 			}else {
@@ -204,33 +205,51 @@ public class PortSarim extends AbstractScript{
 			AfterCooking = true;
 			break;	
 			
-		case GETTOOLS:
+		case GETLOG:
+			log("getting log to sell");
 			AltTask = false;
-			ChopTree(1, "Tree");
+			while(!Inventory.contains(Logs)) {
+				ChopTree(1, "Tree");	
+			}
 			log(ChoppingComplete);
-			Walking.walk(new Tile(2969, 3217));
-			sleep(4000);
-			ClosestDoor("Door");
-			sleep(4000);
-			Walking.walk(new Tile(2964, 3213));
-			sleep(4000);
-			GroundItem pick = GroundItems.closest(groundItem -> groundItem != null && Arrays.asList(lootList).contains(groundItem.getName()));
-			pick.interact("Take");
-			sleep(4000);
-			ClosestDoor("Door");
-			sleep(4000);
-			Walking.walk(new Tile(2952, 3214));
-			sleep(8000);
-			Walking.walk(new Tile(2949, 3217));
-			sleep(3000);
+			break;
+			
+		case GETPICK:
+			log("get pick");
+			if (!GeneralStore.contains(getLocalPlayer())) {
+				Walking.walk(new Tile(2969, 3217));
+				sleep(2000);
+				sleepUntil(() -> getLocalPlayer().isMoving() == false, 10000);
+				ClosestDoor("Door");					//first door of the pickaxe building
+				sleep(2000);
+				Walking.walk(new Tile(2964, 3213));
+				sleep(2000);
+				sleepUntil(() -> getLocalPlayer().isMoving() == false, 10000);
+				GroundItem pick = GroundItems.closest(groundItem -> groundItem != null && Arrays.asList(lootList).contains(groundItem.getName()));		//identify pickaxe
+				pick.interact("Take");
+				sleep(2000);
+				ClosestDoor("Door");					//second door of the pickaxe building	
+				sleep(2000);
+				Walking.walk(new Tile(2952, 3214));		//walk near the general store
+				sleep(2000);
+				sleepUntil(() -> getLocalPlayer().isMoving() == false, 10000);
+				Walking.walk(new Tile(2949, 3217));		//walk into the general store
+				sleep(2000);
+				sleepUntil(() -> getLocalPlayer().isMoving() == false, 10000);
+				sleep(500);
+			}
 			break;
 		
 		case BUYGOODS:
 			log("buying goods");
 			BuyTinderbox();
 			if(Inventory.contains(Tinderbox)) {
-				Walking.walk(new Tile(2955, 3229));
-				sleep(200);
+				if(!getLocalPlayer().isMoving()) {
+					Walking.walk(new Tile(2955, 3229));
+					sleep(randomNum(1000, 2000));
+				}else {
+					sleep(3000);
+				}
 			}else {
 				sleep(400);
 			}
@@ -272,60 +291,65 @@ public class PortSarim extends AbstractScript{
 	//State names
 	private enum State{
 		LOOT, LEAVINGSTOREROOM, WYDINEXIT, WALKTOHOUSE, ENTERDOOR1, ENTERDOOR2, COOKING, EXITDOOR2, EXITDOOR1, BANKING, RETURNING,
-		TOSTOREROOM, FROMLUMBY, GETTOOLS, BUYGOODS, CHOPOAKS, BURNMOVE, BURN
+		TOSTOREROOM, FROMLUMBY, GETLOG, GETPICK, BUYGOODS, CHOPOAKS, BURNMOVE, BURN
 	}
 	
 	//Checks if a certain condition is met, then return that state.
 	private State getState() {
-		if(LumbyCastle.contains(getLocalPlayer())&&LumbywalkDone==false){
+	if(LumbyCastle.contains(getLocalPlayer())&&LumbywalkDone==false){															//0, starting from Lumbridge
 			state = State.FROMLUMBY;
 			
-		}else if(storeroom.contains(getLocalPlayer())&& !Inventory.isFull()){
+		}else if(storeroom.contains(getLocalPlayer())&& !Inventory.isFull()){													//1, first step
 			state = State.LOOT;
 			
-		}else if(Wydin.contains(getLocalPlayer())&&AfterCooking == false&&Inventory.isFull()){
-			state = State.WYDINEXIT;
-			
-		}else if(getLocalPlayer().getTile().distance(Door1Enter)<2&&AfterCooking == false&&Door1Entered == false) {
-			state = State.ENTERDOOR1;
-			
-		}else if(getLocalPlayer().getTile().distance(Door2Enter)<2&&AfterCooking == false) {
-			state = State.ENTERDOOR2;
-			
-		}else if(Range.contains(getLocalPlayer())&&CookingCount<3&&AfterCooking == false) {
-			state = State.COOKING;
-			
-		}else if(Range.contains(getLocalPlayer())&&AfterCooking == true) {
-			state = State.EXITDOOR2;
-			
-		}else if(getLocalPlayer().getTile().distance(Door1Exit)<2&&AfterCooking == true) {
-			state = State.EXITDOOR1;
-			
-		}else if(Bank.contains(getLocalPlayer())&&AfterCooking == true&&Inventory.isFull()){
-			state = State.BANKING;
-			
-		}else if (Bank.contains(getLocalPlayer())&&!Inventory.isFull()) {
-			state = State.RETURNING;
-			
-		}else if(Wydin.contains(getLocalPlayer())&&AfterCooking == true&&!Inventory.isFull()){
-			state = State.TOSTOREROOM;
-			
-		}else if(storeroom.contains(getLocalPlayer())&&Inventory.isFull()) {
+		}else if(storeroom.contains(getLocalPlayer())&& Inventory.isFull()) {													//2, second step
 			state = State.LEAVINGSTOREROOM;
 			
-		}else if (Rimmington.contains(getLocalPlayer())&AltTask == true) {
-			state = State.GETTOOLS;
+		}else if(Wydin.contains(getLocalPlayer())&&AfterCooking == false&&Inventory.isFull()){									//3, third step
+			state = State.WYDINEXIT;
 			
-		}else if (GeneralStore.contains(getLocalPlayer())&& !Inventory.contains(Tinderbox)) {
-			state = State.BUYGOODS;
+		}else if(getLocalPlayer().getTile().distance(Door1Enter)<2&&AfterCooking == false&&Door1Entered == false) {				//4, fourth step
+			state = State.ENTERDOOR1;												//revise for robustness
 			
-		}else if (OakTrees.contains(getLocalPlayer())&& !Inventory.isFull()&&Inventory.contains(Tinderbox)) {
+		}else if(getLocalPlayer().getTile().distance(Door2Enter)<2&&AfterCooking == false) {									//5, fifth step
+			state = State.ENTERDOOR2;												//revise for robustness
+			
+		}else if(Range.contains(getLocalPlayer())&&CookingCount<3&&AfterCooking == false) {										//6, sixth step
+			state = State.COOKING;																			//Improve this to inspect inventory for product yet to be cooked, this will prevent final click on range
+			
+		}else if(Range.contains(getLocalPlayer())&&AfterCooking == true) {														//7, seventh step
+			state = State.EXITDOOR2;												//revise for robustness
+			
+		}else if(getLocalPlayer().getTile().distance(Door1Exit)<2&&AfterCooking == true) {										//8, eighth step
+			state = State.EXITDOOR1;												//revise for robustness									
+			
+		}else if(Bank.contains(getLocalPlayer())&&AfterCooking == true&&Inventory.isFull()){									//9, ninth step
+			state = State.BANKING;
+			
+		}else if (Bank.contains(getLocalPlayer()) && !Inventory.isFull()) {														//10, tenth step
+			state = State.RETURNING;
+			
+		}else if(Wydin.contains(getLocalPlayer())&&AfterCooking == true&&!Inventory.isFull()){									//11, eleventh step
+			state = State.TOSTOREROOM;
+			
+//$$$$$$$$$$$$$$$$$$$$$$$$          RIMMINGTON SECTION         $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+			
+		}else if (Rimmington.contains(getLocalPlayer())&&AltTask == true&&!Inventory.contains(Logs)) {														//Trigger to go to Rimmington Step 0
+			state = State.GETLOG;
+			
+		}else if (Inventory.contains(Logs)&&!Inventory.contains("Pickaxe") && !GeneralStore.contains(getLocalPlayer())) {
+			state = State.GETPICK;
+			
+		}else if (GeneralStore.contains(getLocalPlayer())&& !Inventory.contains(Tinderbox)) {									//Rimmington Step 1
+			state = State.BUYGOODS;		//risk of logs delivering 0 money when sold, inspect coins in the inventory
+			
+		}else if (OakTrees.contains(getLocalPlayer()) && !Inventory.isFull() && Inventory.contains(Tinderbox)) {					//Rimmington Step 2
 			state = State.CHOPOAKS;
 			
-		}else if (OakTrees.contains(getLocalPlayer())&& Inventory.isFull() && Inventory.contains(OakLogs)) {
+		}else if (OakTrees.contains(getLocalPlayer()) && Inventory.isFull() && Inventory.contains(OakLogs)) {					//Rimmington Step 3	
 			state = State.BURNMOVE;
 			
-		}else if (BurnStart.contains(getLocalPlayer())&& Inventory.contains(OakLogs)) {
+		}else if (BurnStart.contains(getLocalPlayer()) && Inventory.contains(OakLogs)) {											//Rimmington Step 4
 			state = State.BURN;
 		}
 		return state;
@@ -347,18 +371,20 @@ public class PortSarim extends AbstractScript{
     	log("in get chicken");
     		log("Next to crate, beginning loot");
     		while(!Inventory.isFull()) {
-			if (Dialogues.inDialogue()&&DialogOpen==true) {
-				Keyboard.type("1",false);
-				DialogOpen = false;
-				sleep(100);
-			}else {
-				GameObject crates = GameObjects.getTopObjectOnTile(new Tile(3009,3209));
-				if(crates != null && crates.hasAction("Search")){
-					//log("searching crate");
-					crates.interact("Search");
-					DialogOpen = true;
-					sleep(randomNum(3333,3666));
-			}		
+	    		sleepUntil(() -> getLocalPlayer().isMoving() == false, 10000);
+				if (Dialogues.inDialogue()&&DialogOpen==true) {
+					Keyboard.type("1",false);
+					DialogOpen = false;
+					sleep(100);
+				}else {
+					GameObject crates = GameObjects.getTopObjectOnTile(new Tile(3009,3209));
+					if(crates != null && crates.hasAction("Search")){
+						//log("searching crate");
+						sleepUntil(() -> getLocalPlayer().isMoving() == false, 10000);
+						crates.interact("Search");
+						DialogOpen = true;
+						sleep(randomNum(3333,3666));
+				}		
 			}	
 		}
     }
@@ -447,10 +473,10 @@ public class PortSarim extends AbstractScript{
     	Door1Entered = false;
 		log("Beginning to Cook");
 		log("Name = " + Inventory.contains(2140,2138));
-		/*if(!Inventory.contains(2140,2138)){
+		if(!Inventory.contains(2140) && !Inventory.contains(2138)){
 			log("inv filled with burnts");
 			AfterCooking = true;
-		}else {*/
+		}else {
 			if (Widgets.getWidget(270) !=null) {
 				log("Eureka, widget found");
 				if (Widgets.getWidget(270).getChild(15).getChild(38) !=null) {
@@ -478,7 +504,7 @@ public class PortSarim extends AbstractScript{
 	        	}
 			}
 		}
-	//}
+	}
     private void Door2Exit(String nameofObject1){	//used when entering door1
     	boolean DoorOpenStatus = false;
         GameObject door = GameObjects.getTopObjectOnTile(Door2);
@@ -547,7 +573,7 @@ public class PortSarim extends AbstractScript{
 				}
 			}
 		}
-    	if(randomNum(1,2)<19) {
+    	if(randomNum(1,21)<19) {
 	    	GameObject door = GameObjects.getTopObjectOnTile(WydinDoor);
 	    	if(door != null && door.hasAction("Open")){
 	        	log("click on Wydin door");
@@ -567,16 +593,17 @@ public class PortSarim extends AbstractScript{
 				}
 	        	
 	        }
-    	}else {
+    	}else if (AltTask == false){
     		AltTask = true; 
     		WalktoRimmington();
+    		log("Walk to Rimmington function complete");
     	}
     }
     
     private void toStoreroom(String nameofObject1) {
     	GameObject door = GameObjects.getTopObjectOnTile(StoreroomDoor);
     	if(door != null && door.hasAction("Open")){
-        	log("click on door1");
+        	log("click on storeroom door");
         	door.interact("Open");
         	sleep(randomNum(1500, 2500));
     	}
@@ -654,7 +681,7 @@ public class PortSarim extends AbstractScript{
 			if (getLocalPlayer().getAnimation() == 733 || getLocalPlayer().isMoving() == true) {
 				sleep(randomNum(100, 300));
 			}else {
-				log("click logs");
+				//log("click logs");
 				sleep(200);
 				Inventory.interact(Tinderbox, "Use");
 				sleep(randomNum(100, 120));
@@ -662,15 +689,15 @@ public class PortSarim extends AbstractScript{
 				sleep(randomNum(900, 1200));
 			}
 		}
-		sleep(400);
+		sleep(1200);
 		Inventory.interact("Bronze pickaxe", "Drop");
-		sleep(150);
+		sleep(350);
 		Inventory.interact(Tinderbox, "Drop");
-		sleep(150);
+		sleep(350);
     	for(int i = 0; i < pathFromRimmintgon.length; i++) {
 			while(getLocalPlayer().getTile().distance(pathFromRimmintgon[i])>3) {
 				if(!getLocalPlayer().isMoving()) {
-					log("on step" + i);
+					log("on walk back to wydin step" + i);
 					Walking.walk(pathFromRimmintgon[i]);
 					sleep(randomNum(1000, 2000));
 				}
@@ -684,15 +711,15 @@ public class PortSarim extends AbstractScript{
     
     private void WalktoRimmington(){
     	for(int i = 0; i < pathtoRimmintgon.length; i++) {
-			while(getLocalPlayer().getTile().distance(pathtoRimmintgon[i])>3) {
+			while(getLocalPlayer().getTile().distance(pathtoRimmintgon[i])>2) {
 				if(!getLocalPlayer().isMoving()) {
-					log("on step" + i);
+					log("on walk to rimmington step" + i);
 					Walking.walk(pathtoRimmintgon[i]);
 					sleep(randomNum(1000, 2000));
 				}
 			}
 		}
-  
+    	sleep(2200);
     }
 	
 	public int randomNum(int i, int k) {
